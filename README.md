@@ -1,3 +1,3 @@
 # oil.deno.dev
 
-For now, I'm placing code samples of webserver.
+For now, I'm placing code sample.
